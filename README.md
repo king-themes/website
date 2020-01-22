@@ -2,6 +2,4 @@
 
 Είναι πράγματι ένα εξαιρετικό site.
 
-Edited on update-readme branch
-
-Updated locally
+Updates made on master on GitHub before rebase.
